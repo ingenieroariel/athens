@@ -1,7 +1,5 @@
 [webserver]
 port = ":8080"
-#hostname = "tegola-cdn.terranodo.io"
-hostname = "/"
 
 
 [[providers]]
