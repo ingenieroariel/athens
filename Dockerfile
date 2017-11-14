@@ -1,5 +1,3 @@
 FROM terranodo/tegolanow
 
-COPY . /
-
-CMD ["tegola", "--config=/config.toml"]
+CMD ["/tegola", "--config=/config.toml"]
